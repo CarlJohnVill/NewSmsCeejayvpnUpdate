@@ -1,5 +1,5 @@
 {
-"SendMessage":10,
+"SendMessage":11,
 "MyMessage":
-"No Browsing?\n\nTry turning Forward DNS and Forward UDP,And Change DNS to 8.8.8.8,9.9.9.9, or 1.1.1.1"
+"No Browsing?\n\nTry turning Forward DNS and Forward UDP,And Change DNS"
 }
